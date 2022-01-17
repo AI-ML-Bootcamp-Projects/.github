@@ -1,4 +1,4 @@
-![collaboration](https://user-images.githubusercontent.com/95383833/149814116-67c08fa7-97e4-44e7-9071-1230c14b0f57.jpg)
+![robot](https://user-images.githubusercontent.com/95383833/149815254-8d3cf96d-690c-4cb1-b1c1-55957fdb65a6.png)
 
 ## Overview:
 
