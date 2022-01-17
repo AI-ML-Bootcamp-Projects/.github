@@ -1,4 +1,4 @@
-![Artificial Intelligence](https://user-images.githubusercontent.com/95383833/149812648-79fa3b7c-2c33-4006-826d-9183c2089f63.png)
+![collaboration](https://user-images.githubusercontent.com/95383833/149813127-aebf81c7-ab4d-4db8-9aab-9c98833c76d4.png)
 
 ## Overview:
 
