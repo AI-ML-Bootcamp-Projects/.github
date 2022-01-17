@@ -1,4 +1,4 @@
-![Collaboration]("C:\Users\AD\Downloads\pxfuel.com (2).jpg")
+![Artificial Intelligence](https://user-images.githubusercontent.com/95383833/149812648-79fa3b7c-2c33-4006-826d-9183c2089f63.png)
 
 ## Overview:
 
